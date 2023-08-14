@@ -1,0 +1,7 @@
+{
+  // colocando como padrão raiz a pasta src, começando o diretório a partir dela
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
